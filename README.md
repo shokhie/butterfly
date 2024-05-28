@@ -6,4 +6,5 @@ A computer generated butterfly.
 ![alt text](https://wikimedia.org/api/rest_v1/media/math/render/svg/3c9b54f7112ec2abd4125ef9b52aa55a9b8470ea)
 
 The above equation represents this butterfly or you can say this butterfly represents this equation.
-![alt text](https://github.com/shokhie/butterfly/blob/main/butterfly.png)
+<img src="https://github.com/shokhie/butterfly/blob/main/butterfly.png" alt="drawing" width="200"/>
+
